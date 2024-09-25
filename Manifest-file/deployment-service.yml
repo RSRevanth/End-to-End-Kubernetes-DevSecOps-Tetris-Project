@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: tetris
-        image: revanth77/tetrisv1:latest
+        image: revanth77/tetrisv1:7
         ports:
         - containerPort: 3000
 ---
